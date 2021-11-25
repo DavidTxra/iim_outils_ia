@@ -1,5 +1,7 @@
 # Outils de l'IA - IIM A5
 
+![caption](https://media.giphy.com/media/mo1E8OlPoeid6BKs4J/giphy.gif)
+
 Équipe 1 membres :
 * MARTIN Léonard
 * BRAFLAN Julien
